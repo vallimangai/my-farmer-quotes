@@ -1,0 +1,17 @@
+{
+    "farmers":[
+        {
+            "id":0,
+            "quote":"Farming looks mighty easy when your plow is a pencil, and you’re a thousand miles from the corn field"
+        },
+        {
+            "id":1,
+            "quote":"It was farmers that took all that land and made it America...It was farmers that went over the mountains, and cleared the land, and settled it, and farmed it, and hung onto their land."
+        },
+        {
+            "id":2,
+            "quote":"A good farmer is nothing more nor less than a handy man with a sense of humus"
+        }
+
+    ]
+}
